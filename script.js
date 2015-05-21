@@ -9,6 +9,11 @@ function draw(){
 
 		ctx.fillStyle = "rgba(0, 0, 200, 0.5)";
 		ctx.fillRect (130, 130, 55, 50);
+		
+		* You can use:
+		* fillRect - draws a filled rectangle
+		* clearRect - draws a rectangle and erasing the background
+		* strokeRect - draws a rectangular outline
 		*/
 	}
 }
